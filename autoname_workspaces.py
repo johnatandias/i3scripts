@@ -55,6 +55,7 @@ WINDOW_ICONS = {
     'blender': fa.icons['cube'],
     'brave': fa.icons['globe-americas'],
     'chromium': fa.icons['chrome'],
+    'code': fa.icons['code'],
     'code - insiders': fa.icons['code'],
     'cura': fa.icons['cube'],
     'darktable': fa.icons['image'],
